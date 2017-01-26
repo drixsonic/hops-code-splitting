@@ -1,0 +1,21 @@
+{
+  "name": "hops-code-splitting",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/main.js",
+  "scripts": {
+    "start": "hops start",
+    "test": "hops test"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "hops": {
+    "locations": [
+      "/"
+    ]
+  },
+  "dependencies": {
+    "hops": "2.1.1"
+  }
+}
